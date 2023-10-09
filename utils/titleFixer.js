@@ -5,4 +5,4 @@ const titleFixer = (number, str) => {
 };
 
 // Using
-titleFixer(50, "Passing Values to Functions with Arguments");
+titleFixer(60, "Comparison with the Equality Operator");
