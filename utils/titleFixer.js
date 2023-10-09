@@ -5,4 +5,7 @@ const titleFixer = (number, str) => {
 };
 
 // Using
-titleFixer(60, "Comparison with the Equality Operator");
+titleFixer(70, "Comparisons with the Logical Or Operator");
+
+//pergi ke pasar terus ke kelas
+// pergi ke kelas
