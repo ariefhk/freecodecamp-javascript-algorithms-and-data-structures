@@ -5,7 +5,7 @@ const titleFixer = (number, str) => {
 };
 
 // Using
-titleFixer(70, "Comparisons with the Logical Or Operator");
+titleFixer(80, "Returning Boolean Values from Functions");
 
 //pergi ke pasar terus ke kelas
 // pergi ke kelas
