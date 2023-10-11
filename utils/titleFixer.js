@@ -5,7 +5,7 @@ const titleFixer = (number, str) => {
 };
 
 // Using
-titleFixer(80, "Returning Boolean Values from Functions");
+titleFixer(90, "Using Objects for Lookups");
 
 //pergi ke pasar terus ke kelas
 // pergi ke kelas
