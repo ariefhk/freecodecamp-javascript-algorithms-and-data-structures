@@ -5,7 +5,7 @@ const titleFixer = (number, str) => {
 };
 
 // Using
-titleFixer(90, "Using Objects for Lookups");
+titleFixer(110, "Use the Conditional Ternary Operator");
 
 //pergi ke pasar terus ke kelas
 // pergi ke kelas
