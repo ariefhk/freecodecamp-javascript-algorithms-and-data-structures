@@ -5,7 +5,7 @@ const titleFixer = (number, str) => {
 };
 
 // Using
-titleFixer(110, "Use the Conditional Ternary Operator");
+titleFixer(10, "Use Destructuring Assignment to Assign Variables from Objects");
 
 //pergi ke pasar terus ke kelas
 // pergi ke kelas
