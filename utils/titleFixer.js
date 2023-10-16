@@ -5,7 +5,7 @@ const titleFixer = (number, str) => {
 };
 
 // Using
-titleFixer(10, "Use Destructuring Assignment to Assign Variables from Objects");
+titleFixer(30, "Using the Test Method");
 
 //pergi ke pasar terus ke kelas
 // pergi ke kelas
