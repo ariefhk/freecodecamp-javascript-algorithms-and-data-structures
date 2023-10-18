@@ -5,7 +5,7 @@ const titleFixer = (number, str) => {
 };
 
 // Using
-titleFixer(30, "Using the Test Method");
+titleFixer(20, "Match All Numbers");
 
 //pergi ke pasar terus ke kelas
 // pergi ke kelas
