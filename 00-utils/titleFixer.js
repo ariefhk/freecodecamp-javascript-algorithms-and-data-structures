@@ -5,7 +5,7 @@ const titleFixer = (number, str) => {
 };
 
 // Using
-titleFixer(20, "Match All Numbers");
+titleFixer(30, "Check For Mixed Grouping of Characters");
 
 //pergi ke pasar terus ke kelas
 // pergi ke kelas
